@@ -4,6 +4,13 @@ Este projeto demonstra o uso do **padrão de projeto Proxy** em Java, aplicado a
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  
+<img width="2721" height="2015" alt="603127012-262b0945-923b-4857-a5ff-3f1a0d84272b" src="https://github.com/user-attachments/assets/e8dee953-f178-411b-b03b-c3e10c6455d8" />
+
+
 - **Interface**
   - `IRelatorio` → define os métodos para obter nome do aluno e suas notas.
 
